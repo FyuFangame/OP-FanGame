@@ -1,6 +1,6 @@
 -----------------------------------------------------
 
-Merci a vous d'avoir installer mon Fangame Attaque des Titans
+Merci a vous d'avoir installer mon Fangame One Piece
 
 Je ne possede pas les droits du jeu officiel ceci est juste un FanGame.
 
@@ -21,7 +21,7 @@ Pour l'installer vous devrez :
 
 -----------------------------------------------------
 
-Thank you for installing my Fangame Attack On Titan
+Thank you for installing my Fangame One Piece
 
 I don't own the rights to the official game this is just a FanGame.
 
